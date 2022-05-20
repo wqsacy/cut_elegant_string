@@ -1,0 +1,14 @@
+{
+  "name": "wangqs/cut_elegant_string",
+  "description": "优雅的将中文（中英混合）字符串裁剪为长度范围内的句子",
+  "require": {
+    "PHP": ">=5.6"
+  },
+  "license": "Apache License 2",
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "Wangqs\\Zeus\\": "src/"
+    }
+  }
+}
