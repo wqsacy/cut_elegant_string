@@ -24,9 +24,9 @@
 
 ## Installing
 
-    ```sh
+```sh
     $ composer require wangqs/cut_elegant_string
-    ```
+```
 
 ## Usage
 
@@ -74,4 +74,4 @@
 
 ## License
 
-MIT
+Apache License 2
