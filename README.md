@@ -74,4 +74,4 @@
 
 ## License
 
-Apache License 2
+MIT

@@ -4,7 +4,7 @@
   "require": {
     "PHP": ">=5.6"
   },
-  "license": "Apache",
+  "license": "MIT",
   "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
